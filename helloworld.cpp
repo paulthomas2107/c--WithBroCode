@@ -5,7 +5,11 @@ int main() {
     int x;
     x = 217;
 
-    std::cout << x;
+    int y = 6;
+
+    std::cout << x << '\n';
+
+    std::cout << y << '\n';
 
 
     return 0;
